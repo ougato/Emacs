@@ -37,7 +37,7 @@
 
 --- 
 
-## [Mac](https://zh.wikipedia.org/wiki/MAC)
+## [Mac](https://zh.wikipedia.org/wiki/%E9%BA%A6%E9%87%91%E5%A1%94%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
 
 --- 
 
