@@ -28,6 +28,7 @@
 0008 00 00 00 00 1d 00 3A 00
 0010 00 00 00 00 00 00 00 00
 0018
+> * [reg文件](https://github.com/ougato/Emacs/tree/master/Windows)
 
 #### .emacs.d
 > * 1.配置文件，默认是不存在的。配置文件生效的目录是windows主目录：
