@@ -16,7 +16,7 @@
 
 ### **个人配置**
 
-#### Capslock键替换Ctrl键
+#### [Capslock键修改Ctrl键](https://zhuanlan.zhihu.com/p/29581818)
 > * 1.点击Win+R键
 > * 2.在输入框键入regedit，打开注册表
 > * 3.进入HKEY_LOCAL_MACHINE -> System -> CurrentControlSet -> Control -> KeyBoard Layout。记住，一定是keyBoard Layout，而不是KeyBoard Layouts
@@ -24,9 +24,9 @@
 > * 5.重命名New Value #1 -> Scancode Map
 > * 6.右键菜单Scancode Map -> Modify
 > * 7.输入如下值，保存
-0000 00 00 00 00 00 00 00 00
-0008 03 00 00 00 1D 00 3A 00
-0010 3A 00 1D 00 00 00 00 00
+0000 00 00 00 00 02 00 00 00
+0008 00 00 00 00 1d 00 3A 00
+0010 00 00 00 00 00 00 00 00
 0018
 
 #### .emacs.d
