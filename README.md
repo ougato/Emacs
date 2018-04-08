@@ -35,7 +35,7 @@
 > * 1.配置文件，默认是不存在的。配置文件生效的目录是windows主目录：
 "C:\Users\Administrator\AppData\Roaming\"
 > * 2.保证C:\Users\Administrator\AppData\Roaming目录下没有.emacs文件
-> * 3.建立C:\Users\Administrator\AppData\Roaming\.emacs.d\init.el文件
+> * 3.建立C:\Users\Administrator\AppData\Roaming\\.emacs.d\init.el文件
 
 --- 
 
