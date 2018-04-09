@@ -2,10 +2,6 @@
 
 ---
 
-[TOC]
-
----
-
 ## [Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows)
 
 ### **安装步骤**
@@ -13,7 +9,7 @@
 > * 2.解压并执行emacs安装目录的\bin\addpm.exe
 （注意：我的安装目录是"D:/Emacs")
 > * 3.下载emacs-25-x86_64-deps.zip，并解压到"D:/Emacs"目录里；这一步骤很重要，是让windows支持更多的gnu库，比如使得org-mode可以显示png格式的图片等
-> * 我的安装文件（[emacs-25.3_1-x86_64.zip](https://pan.baidu.com/s/1Ndi-3ouks3ffdnFK01YpJA) | [emacs-25-x86_64-deps.zip](https://pan.baidu.com/s/1FMeTFYQ1nrWZp_7m_sgDEA))
+> * 我的安装文件（[emacs-25.3_1-x86_64.zip](https://pan.baidu.com/s/1Ik37VyN99xgc-AWNQ9dqNw) | [emacs-25-x86_64-deps.zip](https://pan.baidu.com/s/1FMeTFYQ1nrWZp_7m_sgDEA))
 
 ### **个人配置**
 
